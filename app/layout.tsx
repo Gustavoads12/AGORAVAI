@@ -16,7 +16,7 @@ const anton = Anton({
 
 export const metadata: Metadata = {
   title: "Tocaa.ai",
-  description: "200 MÚSICAS PRA TOCAR NO PIANO - Aprenda piano do zero com videoaulas passo a passo",
+  description: "2001 MÚSICAS PRA TOCAR NO PIANO - Aprenda piano do zero com videoaulas passo a passo",
   openGraph: {
     title: "Tocaa.ai",
     description: "200 MÚSICAS PRA TOCAR NO PIANO - Aprenda piano do zero com videoaulas passo a passo",
