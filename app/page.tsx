@@ -40,7 +40,7 @@ export default function Home() {
 
               <div className="hero-title max-w-[600px] mx-auto md:mx-0 space-y-1 md:space-y-2 text-center md:text-left -mt-28 md:mt-0">
                 <h1 className="text-[18px] md:text-4xl lg:text-5xl font-bold leading-tight text-white text-center md:text-left">
-                  🎹 200 MÚSICAS PRA TOCAR NO PIANO (MESMO SE VOCÊ NUNCA TOCOU ANTES) + Aulas em vídeo passo a passo,
+                  🎹 201 MÚSICAS PRA TOCAR NO PIANO (MESMO SE VOCÊ NUNCA TOCOU ANTES) + Aulas em vídeo passo a passo,
                   sem enrolação
                 </h1>
 
