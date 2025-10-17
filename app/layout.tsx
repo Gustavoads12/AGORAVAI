@@ -32,6 +32,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="pt-BR" className={`${inter.variable} ${anton.variable}`}>
+      
        <head>
         <script
           dangerouslySetInnerHTML={{
@@ -45,6 +46,7 @@ export default function RootLayout({
           }}
         />
       </head>
+      
       <body className={inter.className}>{children}</body>
     </html>
   )
