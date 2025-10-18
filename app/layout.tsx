@@ -1,6 +1,7 @@
 import type React from "react"
 import type { Metadata } from "next"
 import { Inter, Anton } from "next/font/google"
+import Script from "next/script" // 👈 1. ADICIONE ESTA IMPORTAÇÃO
 import "./globals.css"
 
 const inter = Inter({
