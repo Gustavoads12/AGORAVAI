@@ -1,6 +1,6 @@
 "use client"
 
-import type React from "react"
+import React from "react"
 import { ArrowRight } from "lucide-react"
 
 const CHECKOUT_URL = "https://go.perfectpay.com.br/PPU38CQ28NA"
