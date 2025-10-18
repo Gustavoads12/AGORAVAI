@@ -3,7 +3,7 @@
 import type React from "react"
 import { ArrowRight } from "lucide-react"
 
-const CHECKOUT_URL = "https://go.perfectpay.com.br/PPU38CQ25DA"
+const CHECKOUT_URL = "https://go.perfectpay.com.br/PPU38CQ28NA"
 
 export default function Home() {
   const handleCheckoutClick = (e: React.MouseEvent<HTMLAnchorElement>) => {
